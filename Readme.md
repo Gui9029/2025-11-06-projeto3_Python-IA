@@ -12,7 +12,7 @@ Os passos do projeto foi: importar a base de dados, verificar as informações v
 
 ## Tecnologias utilizadas
 
-- [Pyyhon]
+- [Python]
 
 Além disso, foi utilizada as blibliotecas
 
